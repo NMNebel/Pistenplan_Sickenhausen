@@ -1,4 +1,4 @@
-## 1 Pyramiden
+# 1 Pyramiden
 
 | Bahn       | 1 Pyramiden |
 | ---------- | ----------- |
@@ -6,5 +6,7 @@
 | Abschlag   | bah**N**en  |
 | Par / Par+ | ?           |
 | Spielweise | keine       |
+
+## Asslinie
 
 ![](Grafiken/01_Pyramiden.svg)
