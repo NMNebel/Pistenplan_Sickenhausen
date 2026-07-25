@@ -1,2 +1,5 @@
 title: "Pistenplan Sickenhausen"
 theme: jekyll-theme-minimal
+author: "Nico Nebel"
+header_pages:
+  - readme.md
