@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Bahn 1 Pyramiden"
+---
+
 # 1 Pyramiden
 
 | S12 Bahn   | Bahn 1 Pyramiden |
