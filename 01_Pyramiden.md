@@ -1,3 +1,8 @@
+---
+title: "1 Pyramiden"
+layout: default
+---
+
 # 1 Pyramiden
 
 | S12 Bahn   | Bahn 1 Pyramiden |
