@@ -10,3 +10,5 @@
 ## Asslinie
 
 ![](Grafiken/01_Pyramiden.svg)
+
+nächste Bahn: [2 Gradschlag Tor](02_Gradschlag_Tor.md)
