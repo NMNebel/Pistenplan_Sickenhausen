@@ -2,9 +2,7 @@
 
 | Ball | Abschlag   | Spielweise                       |
 | ---- | ---------- | -------------------------------- |
-| Rot  | bah**N**en | Rechte Bande bei der 2. Pyramide |
-
-## Asslinie
+| ?  | bah**N**en | Rechte Bande bei der 2. Pyramide |
 
 ![](Grafiken/01_Pyramiden.svg)
 

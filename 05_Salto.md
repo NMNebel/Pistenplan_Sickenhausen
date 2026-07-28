@@ -1,13 +1,8 @@
 # 5 Salto
 
-| S12 Bahn   | S12: Bahn 2 Salto   |
-| ---------- | ------------------- |
-| Ball       | Toter Ball          |
-| Abschlag   | Mitte               |
-| Par / Par+ | ?                   |
-| Spielweise | Schräg in den Salto |
-
-## Asslinie
+| Ball       | Abschlag | Spielweise          |
+| ---------- | -------- | ------------------- |
+| Toter Ball | Mitte    | Schräg in den Salto |
 
 ![](Grafiken/05_Salto.svg)
 
