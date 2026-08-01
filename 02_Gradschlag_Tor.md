@@ -1,8 +1,8 @@
 # 2 Gradschlag Tor
 
-| Ball | Abschlag   | Spielweise                       |
-| ---- | ---------- | -------------------------------- |
-| ?    | Mitte | Geradeaus |
+| Ball | Abschlag   | Stärke | Spielweise                       |
+| ---- | ---------- | -------------------------------- | -------------------------------- |
+| Dunkel Gelb | Mitte, leicht nach rechst (rechts denken) | schwach | Geradeaus |
 
 ![](Grafiken/02_Gradschlag_Tor.svg)
 

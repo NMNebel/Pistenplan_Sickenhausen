@@ -2,7 +2,7 @@
 
 | Ball | Abschlag   | Spielweise                       |
 | ---- | ---------- | -------------------------------- |
-| ?  | bah**N**en | Rechte Bande bei der 2. Pyramide |
+| Rot | bahn**E**n | Rechte Bande bei der 2. Pyramide |
 
 ![](Grafiken/01_Pyramiden.svg)
 

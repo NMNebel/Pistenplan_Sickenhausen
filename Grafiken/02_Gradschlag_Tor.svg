@@ -32,7 +32,7 @@
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      inkscape:snap-global="false" />
   <defs
      id="defs2" />
@@ -88,7 +88,7 @@
      inkscape:label="Schlag 1"
      style="display:inline">
     <path
-       style="fill:none;stroke:#008000;stroke-width:1.21174;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#008000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 129.28331,264.36718 V 44.198887"
        id="path2032" />
   </g>
