@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="64mm"
+   height="270mm"
+   viewBox="0 0 64 270"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="0.64052329"
      inkscape:cx="586.23942"
-     inkscape:cy="712.69852"
+     inkscape:cy="587.80064"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="1912"
@@ -59,27 +59,27 @@
     <path
        id="path1098"
        style="fill:#e6e6e6;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 129.28357,14.836304 A 29.633635,29.478734 0 0 0 99.649723,44.315123 29.633635,29.478734 0 0 0 110.12918,66.78197 h -0.0847 v 213.50531 h 38.3961 V 66.78197 h -0.003 A 29.633635,29.478734 0 0 0 158.9169,44.315123 29.633635,29.478734 0 0 0 129.28357,14.836304 Z" />
+       d="M 32.624321,3.2702401 A 29.633635,29.478734 0 0 0 2.9904743,32.749059 29.633635,29.478734 0 0 0 13.469931,55.215906 h -0.0847 V 268.72122 h 38.3961 V 55.215906 h -0.003 A 29.633635,29.478734 0 0 0 62.257651,32.749059 29.633635,29.478734 0 0 0 32.624321,3.2702401 Z" />
     <rect
        style="fill:#999999;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect43"
        width="21.010891"
        height="16.377714"
-       x="118.77786"
-       y="263.89377" />
+       x="22.118614"
+       y="252.3277" />
     <circle
        style="display:inline;fill:#0000ff;stroke:#000000;stroke-width:0.1077;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path1982"
-       cx="129.28331"
-       cy="44.470276"
+       cx="32.624062"
+       cy="32.904213"
        r="1.5335642" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 110.08414,66.504867 c 38.41586,0 38.41586,0 38.41586,0"
+       d="m 13.424891,54.938803 c 38.41586,0 38.41586,0 38.41586,0"
        id="path1297" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 125.15257,66.402268 h 8.26148"
+       d="m 28.493321,54.836204 h 8.26148"
        id="path1450" />
   </g>
   <g
@@ -89,7 +89,7 @@
      style="display:inline">
     <path
        style="fill:none;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 129.28331,264.36718 V 44.198887"
+       d="M 32.624061,252.80112 V 32.632823"
        id="path2032" />
   </g>
 </svg>
