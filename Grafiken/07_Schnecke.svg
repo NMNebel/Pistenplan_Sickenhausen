@@ -92,6 +92,27 @@
        d="m 84.751245,196.21414 6.640363,-63.5545"
        id="path7797"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="77.236519"
+       y="200.55008"
+       id="text2176"><tspan
+         sodipodi:role="line"
+         id="tspan2174"
+         style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="77.236519"
+         y="200.55008">Bahnen</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="77.236519"
+         y="204.07785"
+         id="tspan2178">nicht</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="77.236519"
+         y="207.60564"
+         id="tspan2180">betreten</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

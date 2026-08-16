@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="148mm"
+   height="210mm"
+   viewBox="0 0 148 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="09_Niere.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.45291837"
+     inkscape:cx="49.677826"
+     inkscape:cy="667.89077"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Bahn"
+     style="display:inline">
+    <path
+       id="path1098"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.311401;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 62.505483,1.9401666 A 23.06986,22.949269 0 0 0 39.435456,24.889502 23.06986,22.949269 0 0 0 47.593741,42.379999 h -0.06592 V 208.59442 h 29.89146 V 42.379999 h -0.0021 A 23.06986,22.949269 0 0 0 85.575386,24.889502 23.06986,22.949269 0 0 0 62.505764,1.9401666 Z" />
+    <rect
+       style="fill:#999999;stroke:none;stroke-width:0.311401;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect43"
+       width="16.357031"
+       height="12.750092"
+       x="54.326759"
+       y="195.83203" />
+    <circle
+       style="display:inline;fill:#0000ff;stroke:#000000;stroke-width:0.0838447;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1982"
+       cx="62.505276"
+       cy="25.010288"
+       r="1.1938837" />
+    <rect
+       style="fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.399264;stroke-linecap:round"
+       id="rect1447"
+       width="11.170568"
+       height="20.571037"
+       x="65.807571"
+       y="89.557373" />
+    <rect
+       style="display:inline;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.239505;stroke-linecap:round"
+       id="rect1447-4"
+       width="4.0196204"
+       height="20.571037"
+       x="99.403152"
+       y="89.706833" />
+    <path
+       id="rect1447-3"
+       style="display:inline;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.378971;stroke-linecap:round"
+       d="m 55.509051,89.583137 -2.719166,2.718765 v 11.210958 l 5.51597,6.66131 h 4.537973 V 89.583137 Z" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.641681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 47.641016,93.909708 h 5.059438"
+       id="path2402" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.19711px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.205978"
+       x="62.827232"
+       y="200.38329"
+       id="text2176"><tspan
+         sodipodi:role="line"
+         id="tspan2174"
+         style="font-size:2.19711px;text-align:center;text-anchor:middle;stroke-width:0.205978"
+         x="62.827232"
+         y="200.38329">Bahnen</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.19711px;text-align:center;text-anchor:middle;stroke-width:0.205978"
+         x="62.827232"
+         y="203.12967"
+         id="tspan2178">nicht</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.19711px;text-align:center;text-anchor:middle;stroke-width:0.205978"
+         x="62.827232"
+         y="205.87607"
+         id="tspan2180">betreten</tspan></text>
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.389251;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3067"
+       width="2.2739062"
+       height="164.85822"
+       x="103.74965"
+       y="42.917305" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.389251;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3067-3"
+       width="2.4609249"
+       height="41.117329"
+       x="91.012527"
+       y="25.033375"
+       transform="rotate(-13.503083)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Schlag 1"
+     style="display:inline">
+    <path
+       style="display:inline;fill:none;stroke:#008000;stroke-width:0.389251;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70.683803,195.83203 47.641016,93.909708"
+       id="path7797"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

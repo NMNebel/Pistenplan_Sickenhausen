@@ -74,5 +74,26 @@
        d="M 29.425817,180.41869 14.143613,25.853501 145.47772,40.037677 119.38846,31.811874"
        id="path2032"
        sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="19.778057"
+       y="186.6469"
+       id="text2176"><tspan
+         sodipodi:role="line"
+         id="tspan2174"
+         style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="19.778057"
+         y="186.6469">Bahnen</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="19.778057"
+         y="190.17467"
+         id="tspan2178">nicht</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="19.778057"
+         y="193.70245"
+         id="tspan2180">betreten</tspan></text>
   </g>
 </svg>

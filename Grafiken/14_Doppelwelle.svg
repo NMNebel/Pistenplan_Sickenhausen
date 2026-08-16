@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="148mm"
+   height="210mm"
+   viewBox="0 0 148 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="14_Doppelwelle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.45291837"
+     inkscape:cx="564.11931"
+     inkscape:cy="714.25674"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Bahn"
+     style="display:inline">
+    <path
+       id="path1098"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.309683;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 75.229166,2.5234823 A 22.942564,22.822639 0 0 0 52.286434,25.346186 22.942564,22.822639 0 0 0 60.399699,42.740173 h -0.0656 V 208.03745 H 90.060627 V 42.740173 h -0.0021 A 22.942564,22.822639 0 0 0 98.171648,25.346186 22.942564,22.822639 0 0 0 75.229326,2.5234823 Z" />
+    <rect
+       style="fill:#999999;stroke:none;stroke-width:0.309683;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect43"
+       width="16.266777"
+       height="12.679739"
+       x="67.095566"
+       y="195.34547" />
+    <circle
+       style="display:inline;fill:#0000ff;stroke:#000000;stroke-width:0.0833821;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1982"
+       cx="75.228966"
+       cy="25.466309"
+       r="1.187296" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.387103;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 83.36235,195.34548 60.164044,136.44251"
+       id="path7797"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.387103;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 60.164044,136.44251 87.388315,7.9867524 74.915938,24.616585"
+       id="path867"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.18498px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.204842"
+       x="75.222557"
+       y="199.76871"
+       id="text2176"><tspan
+         sodipodi:role="line"
+         id="tspan2174"
+         style="font-size:2.18498px;text-align:center;text-anchor:middle;stroke-width:0.204842"
+         x="75.222557"
+         y="199.76871">Bahnen</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.18498px;text-align:center;text-anchor:middle;stroke-width:0.204842"
+         x="75.222557"
+         y="202.49994"
+         id="tspan2178">nicht</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.18498px;text-align:center;text-anchor:middle;stroke-width:0.204842"
+         x="75.222557"
+         y="205.23116"
+         id="tspan2180">betreten</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.83259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 60.164044,136.44251 c 30.076081,0 30.076081,0 30.076081,0"
+       id="path1113" />
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.83259;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 60.357611,72.267456 c 30.076081,0 30.076081,0 30.076081,0"
+       id="path1113-6" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Schlag 1"
+     style="display:none" />
+</svg>

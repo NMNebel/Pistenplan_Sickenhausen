@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="148mm"
+   height="210mm"
+   viewBox="0 0 148 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="11_Stumpfe_Kegel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.6405233"
+     inkscape:cx="562.82106"
+     inkscape:cy="534.71903"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Bahn"
+     style="display:inline">
+    <path
+       id="path1098"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.312063;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 71.503672,1.1609033 a 23.118888,22.998041 0 0 0 -23.119057,22.9981077 23.118888,22.998041 0 0 0 8.17562,17.527668 h -0.06612 V 208.25435 H 86.449099 V 41.686679 h -0.002 A 23.118888,22.998041 0 0 0 94.622319,24.159011 23.118888,22.998041 0 0 0 71.503672,1.1609033 Z" />
+    <rect
+       style="fill:#999999;stroke:none;stroke-width:0.312063;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect43"
+       width="16.391794"
+       height="12.777189"
+       x="63.307571"
+       y="195.46483" />
+    <circle
+       style="display:inline;fill:#0000ff;stroke:#000000;stroke-width:0.0840229;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1982"
+       cx="71.503456"
+       cy="24.280056"
+       r="1.1964208" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 63.307567,195.46484 64.098264,2.47675 71.188036,23.423803"
+       id="path867"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.20177px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.206416"
+       x="71.826126"
+       y="200.02574"
+       id="text2176"><tspan
+         sodipodi:role="line"
+         id="tspan2174"
+         style="font-size:2.20177px;text-align:center;text-anchor:middle;stroke-width:0.206416"
+         x="71.826126"
+         y="200.02574">Bahnen</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.20177px;text-align:center;text-anchor:middle;stroke-width:0.206416"
+         x="71.826126"
+         y="202.77795"
+         id="tspan2178">nicht</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.20177px;text-align:center;text-anchor:middle;stroke-width:0.206416"
+         x="71.826126"
+         y="205.53018"
+         id="tspan2180">betreten</tspan></text>
+    <path
+       style="fill:#000080;stroke:#000080;stroke-width:0.206416px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 65.387317,121.55269 20.947047,-4.51167 v 21.26931 l -20.785918,-4.99506 z"
+       id="path1172"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="display:inline;fill:#000080;stroke:#000080;stroke-width:0.206416px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 77.552135,81.590588 56.605088,77.078917 v 21.269314 l 20.785918,-4.995063 z"
+       id="path1172-4"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Schlag 1"
+     style="display:none" />
+</svg>

@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.6405233"
-     inkscape:cx="44.494868"
-     inkscape:cy="458.21908"
+     inkscape:zoom="1.8116735"
+     inkscape:cx="259.70463"
+     inkscape:cy="546.73207"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      inkscape:snap-global="false" />
   <defs
      id="defs2" />
@@ -81,10 +81,31 @@
      inkscape:label="Schlag 1"
      style="display:inline">
     <path
-       style="display:inline;fill:none;stroke:#808000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 80.992498,192.27145 81.3779,118.11543 87.068446,110.03282 82.738511,8.2249995"
+       style="display:inline;fill:none;stroke:#008000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 80.992498,192.27145 0.09332,-73.27976 5.982633,-8.95887 L 82.738511,8.2249995"
        id="path2147"
        sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="73.097015"
+       y="195.94379"
+       id="text2176"><tspan
+         sodipodi:role="line"
+         id="tspan2174"
+         style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="73.097015"
+         y="195.94379">Bahnen</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="73.097015"
+         y="199.47156"
+         id="tspan2178">nicht</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="73.097015"
+         y="202.99934"
+         id="tspan2180">betreten</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -92,7 +113,7 @@
      inkscape:label="Schlag 2"
      style="display:inline">
     <path
-       style="display:inline;fill:none;stroke:#008080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 80.64477,192.60567 c 1.715157,-29.61468 2.794175,-52.87271 6.798034,-82.23423 L 75.521973,6.1950791 51.319069,27.075935 67.612209,44.213343 73.162263,27.490354"
        id="path1097"
        sodipodi:nodetypes="cccccc" />

@@ -24,14 +24,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="3.6233469"
-     inkscape:cx="276.67789"
-     inkscape:cy="122.12466"
+     inkscape:cx="276.6779"
+     inkscape:cy="740.33761"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      inkscape:snap-global="false" />
   <defs
      id="defs2" />
@@ -52,6 +52,27 @@
        height="12.522716"
        x="67.137985"
        y="194.48343" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="75.277214"
+       y="198.26131"
+       id="text2176"><tspan
+         sodipodi:role="line"
+         id="tspan2174"
+         style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="75.277214"
+         y="198.26131">Bahnen</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="75.277214"
+         y="201.78908"
+         id="tspan2178">nicht</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="75.277214"
+         y="205.31686"
+         id="tspan2180">betreten</tspan></text>
     <circle
        style="display:inline;fill:#0000ff;stroke:#000000;stroke-width:0.0823495;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path1982"
@@ -66,7 +87,7 @@
      style="display:inline">
     <path
        style="fill:none;stroke:#008000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 81.803375,194.84542 C 75.864599,144.62814 69.071233,94.51036 63.753283,44.222187 l -7.71438,-7.706904 -2.680388,-12.346291 m 0.146044,-0.219066 4.646235,-10.545169 8.997322,-6.8643567 12.300875,-0.9235657 11.050004,5.9930504 4.883711,7.79559 1.70284,7.836674 -1.899563,8.597282 -4.702706,6.213046 -28.847141,3.686636 13.300836,-18.747095"
+       d="M 81.803375,194.84542 C 75.864599,144.62814 69.071233,94.51036 63.753283,44.222187 l -7.71438,-7.706904 -2.680388,-12.346291 m 0.146044,-0.219066 4.646235,-10.545169 8.997322,-6.8643567 12.300875,-0.9235657 11.050004,5.9930504 4.883711,7.79559 1.70284,7.836674 -1.899563,8.597282 -4.702706,6.213046 -29.066206,7.921901 13.519901,-22.98236"
        id="path2032"
        sodipodi:nodetypes="ccccccccccccccc" />
     <ellipse
