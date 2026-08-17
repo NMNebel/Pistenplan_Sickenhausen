@@ -42,7 +42,7 @@
      style="display:inline">
     <path
        id="path1098"
-       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.305848;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 75.170854,4.0493114 C 62.656851,4.0492227 52.512208,14.140793 52.512244,26.589384 c 0.0059,6.618767 2.935953,12.900437 8.012795,17.178583 h -0.06476 l 3.790126,67.062913 -3.790126,96.18735 h 29.358396 l -3.474284,-96.81904 3.474284,-66.431223 h -0.0023 C 94.893183,39.489802 97.823173,33.208134 97.829068,26.589384 97.829106,14.140947 87.684704,4.0494399 75.170854,4.0493114 Z"
        sodipodi:nodetypes="cccccccccccc" />
     <rect
